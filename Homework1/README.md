@@ -3,14 +3,6 @@
 
 ### 🖥️ **Topics Covered:** C++, Command-line Arguments, Error Handling, Game Development  
 
-- **📅 Due Date:** March 6, 2024, 23:55  
-- **📁 Submission Format:**  
-  - Submit a C++ source file named **`<full_name>_PA1.cpp`** (Example: `frodo_baggins_PA1.cpp`).
-  - Your code **must compile with `g++ -std=c++11`** on **Linux (Ubuntu)**.
-  - **No IDE required**; code will be tested in a **command window**.
-  - **Extensive commenting** is required (missing comments = -10 pts).
-  - **No macros (`#define`)** allowed (-5 pts per macro).
-
 ---
 
 ## 🎮 **Assignment Overview**
@@ -88,9 +80,6 @@ mastermind -u 12345
 - Submit a **zip file** containing:
   - The **C++ source file** (`<full_name>_PA1.cpp`).
   - A **PDF file** with screenshots of valid outputs.
-
-✅ **Questions?**  
-📧 Email your professor or ask in the **MS Teams homework channel**.
 
 ---
 
